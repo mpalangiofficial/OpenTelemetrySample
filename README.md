@@ -1,5 +1,5 @@
 # OpenTelemetrySample
-##Prometheus-config.yaml
+## Prometheus-config.yaml
 ```yaml
 global:
   scrape_interval: 15s
