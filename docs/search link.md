@@ -4,7 +4,7 @@
  [ProcessThreadsView](https://www.nirsoft.net/utils/process_threads_view.html)
 
 [C# Advanced - Multi-Threading](https://www.youtube.com/watch?v=nBMgY_CoLwM)
->main thread = control thread 
+`main thread = control thread `
 
 [multithreading-in-csharp](https://dotnettutorials.net/lesson/multithreading-in-csharp/)
 
