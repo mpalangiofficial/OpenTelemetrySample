@@ -15,3 +15,5 @@ scrape_configs:
 ``` docker
 docker run -d -p 9090:9090 -v D:\Practices\dotnetmetric_examples\prometheus:/etc/prometheus --name prometheus prom/prometheus
 ```
+
+`#promethes`,`#prometheus config file`,`#prometheus.yml`
